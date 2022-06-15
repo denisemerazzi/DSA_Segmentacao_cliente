@@ -1,5 +1,5 @@
 # Laboratório realizado em maio de 2022, a partir dos meus estudos no curso Formação para Cientistas de Dados da DSA Academy.
-O objetivo do projeto é analisar o comportamento dos clientes (ter uma visão completa dos clientes), através da análise RFV ou RFM, que segmenta os clientes a partir das características: 
+O objetivo do projeto é analisar o comportamento dos clientes (ter uma visão completa dos clientes), através da análise RFV, que segmenta os clientes a partir das características: 
 
 a) Recência – medida de tempo, ou seja, quando foi a última compra do cliente; 
 
